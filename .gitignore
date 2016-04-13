@@ -1,0 +1,10 @@
+bin/
+pkg/
+src/github.com/
+src/golang.org
+src/gopkg.in
+src/desmax/araj/araj
+src/desmax/optional
+src/desmax/cert.pem
+src/desmax/key.pem
+.idea
